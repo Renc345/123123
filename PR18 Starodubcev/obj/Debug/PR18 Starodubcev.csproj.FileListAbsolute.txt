@@ -1,0 +1,5 @@
+C:\Users\Студент\Desktop\PR18 Starodubcev\obj\Debug\PR18 Starodubcev.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\PR18 Starodubcev\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\Desktop\PR18 Starodubcev\obj\Debug\App.g.cs
+C:\Users\Студент\Desktop\PR18 Starodubcev\obj\Debug\PR18 Starodubcev_MarkupCompile.cache
+C:\Users\Студент\Desktop\PR18 Starodubcev\obj\Debug\PR18 Starodubcev_MarkupCompile.lref
